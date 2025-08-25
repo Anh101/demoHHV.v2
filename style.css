@@ -74,7 +74,7 @@
 
 /* Sidebar */
 .sidebar {
-    width: 2cm; /* Chiều rộng mới là 2cm */
+    width: 3cm; /* Chiều rộng mới là 2cm */
     background-color: #fff;
     padding: 25px 0;
     box-shadow: 2px 0 10px rgba(0, 0, 0, 0.05);
@@ -589,4 +589,5 @@ footer {
     margin: 5px 0;
     font-size: 13px;
     color: #888;
+
 }
